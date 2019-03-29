@@ -1,0 +1,15 @@
+body{
+    padding:50px;
+    border:10px solid black;
+    margin:12px;
+}
+.button{
+    width:100%;
+    text-align:center;   
+}
+.submit{
+    margin:10px;
+}
+img{
+    width:400px;
+}
